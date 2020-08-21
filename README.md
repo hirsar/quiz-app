@@ -2,6 +2,10 @@
 
 - These can be created in LaTeX (.tex files are stored in the /tex/ folders and can be copied to the /prob/ folder). 
 
-- Similarly, solutions are stored in the /sol/ folder. PracticeApp can be run by simply typing ./PracticeApp.
+- Similarly, solutions are stored in the /sol/ folder. 
+
+- Compile with "g++ practice.cpp -o PracticeApp" in Linux (Ubuntu).
+
+- Run with ./PracticeApp
 
 - Type 'q' to quit at any point.
